@@ -11,8 +11,9 @@
   <p>* 🏫 I graduated <a href="https://drexel.edu/">Drexel University</a> majoring in Mangement Information Systems and Business Analytics with a minor in Finance</p>
   <p>* 🌱 I’m currently learning everything there is to know about Java and the <a href="https://spring.io/projects/spring-framework">Spring Frame Work</a>.</p>
   <p>* 🔭 I was co-op for both <a href="https://www.nbme.org/">The National Board of Medical Examiners</a> and <a href="https://www.horizonmedia.com/">Horizon Media</a></p>
-  <p>* 📫 How to reach me: hsr205@aol.com</p>
+  <p>* 📫 How to reach me: <a href="mailto:hsr205@aol.com">hsr205@aol.com</a> </p>
   <p>* 👔 <a href="https://www.linkedin.com/in/henry-s-rothenberg/">LinkedIn Profile</a><p>
+        
 </body>
 </html>
 
