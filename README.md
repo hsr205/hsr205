@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1 align="center">👋 Hi I'm Henry 👋</h1>
-  <p>* 👨‍💻 I work with Java, Python and SQL.</p>
+  <p>* 👨‍💻 I work with C++, Java, Python and SQL.</p>
   <p>* 🏫 I currrently enrolled as a student at the NYU Tandon School of Engineering Bridge Program</a></p>
   <p>* 🏫 I graduated <a href="https://drexel.edu/">Drexel University</a> majoring in Mangement Information Systems and Business Analytics with a minor in Finance</p>
   <p>* 🌱 I’m currently learning everything there is to know about Java and the <a href="https://spring.io/projects/spring-framework">Spring Frame Work</a>.</p>
